@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyWinFormsApp
-build_property.ProjectDir = C:\Users\coobe\Desktop\cc\MyWinFormsApp\
+build_property.ProjectDir = D:\代码\watchFloder\MyWinFormsApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

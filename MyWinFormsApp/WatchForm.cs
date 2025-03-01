@@ -60,9 +60,29 @@ namespace MyWinFormsApp
                 var app = JsonConvert.DeserializeObject<App>(json);
                 if (app != null && !string.IsNullOrWhiteSpace(app.OriginFloder) && !string.IsNullOrWhiteSpace(app.TargetFloder))
                 {
-                    textBox1.Text = app.OriginFloder;
-                    textBox2.Text = app.TargetFloder;
-                    startWatch();
+                    bool isExsitFloder = true;
+                    if (Directory.Exists(textBox1.Text))
+                    {
+                        textBox1.Text = app.OriginFloder;
+                    }
+                    else
+                    {
+                        isExsitFloder = false;
+                    }
+
+                    if (Directory.Exists(textBox2.Text))
+                    {
+                        textBox2.Text = app.TargetFloder;
+                    }
+                    else
+                    {
+                        isExsitFloder = false;
+                    }
+                    if (isExsitFloder)
+                    {
+                        startWatch();
+                    }
+
                 }
             }
 
@@ -401,7 +421,7 @@ namespace MyWinFormsApp
         {
             if (!string.IsNullOrWhiteSpace(textBox1.Text))
             {
-                if (File.Exists(textBox1.Text))
+                if (Directory.Exists(textBox1.Text))
                 {
                     try
                     {
@@ -419,7 +439,7 @@ namespace MyWinFormsApp
         {
             if (!string.IsNullOrWhiteSpace(textBox2.Text))
             {
-                if (File.Exists(textBox2.Text))
+                if (Directory.Exists(textBox2.Text))
                 {
                     try
                     {
@@ -433,5 +453,6 @@ namespace MyWinFormsApp
             }
 
         }
+ 
     }
 }

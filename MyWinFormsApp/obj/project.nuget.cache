@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MsRbTcmwRsD0Nr8/4jhMTpZkHj+a7JcVOrfciJR0WihXab2rsfH60mnealUceUYWC8IrZZeL+mPzdsdCNHmRbg==",
+  "dgSpecHash": "LzlEO3zqsRujaopHqUCkcm5jJ7zZJPbH1FWEQ4oMW+N2mzGW75RRH1q1TZQB1EyMtqgZ0vgei6+sdbqN3+2+YQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\coobe\\Desktop\\cc\\MyWinFormsApp\\MyWinFormsApp.csproj",
+  "projectFilePath": "D:\\代码\\watchFloder\\MyWinFormsApp\\MyWinFormsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\coobe\\.nuget\\packages\\guru\\2.0.0\\guru.2.0.0.nupkg.sha512",
     "C:\\Users\\coobe\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.0.1\\microsoft.aspnetcore.http.abstractions.2.0.1.nupkg.sha512",

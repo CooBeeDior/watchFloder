@@ -47,7 +47,6 @@
             // textBox1
             // 
             textBox1.Cursor = Cursors.Hand;
-            textBox1.Enabled = false;
             textBox1.Location = new Point(95, 48);
             textBox1.Name = "textBox1";
             textBox1.ReadOnly = true;
@@ -57,7 +56,7 @@
             // 
             // textBox2
             // 
-            textBox2.Enabled = false;
+            textBox2.Cursor = Cursors.Hand;
             textBox2.Location = new Point(95, 97);
             textBox2.Name = "textBox2";
             textBox2.ReadOnly = true;

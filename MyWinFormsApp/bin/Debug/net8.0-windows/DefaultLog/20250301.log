@@ -207,3 +207,14 @@ NullReferenceException: Object reference not set to an instance of an object.
 2025-03-01 16:01:23.784|Information |ConsoleAppInstance
 Application stopped.
 
+2025-03-01 16:15:57.190|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 16:15:57.199|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 16:15:57.199|Information |ConsoleAppInstance
+Application stopped.
+

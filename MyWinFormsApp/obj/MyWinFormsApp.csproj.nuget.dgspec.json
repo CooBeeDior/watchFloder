@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coobe\\Desktop\\cc\\MyWinFormsApp\\MyWinFormsApp.csproj": {}
+    "D:\\代码\\watchFloder\\MyWinFormsApp\\MyWinFormsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coobe\\Desktop\\cc\\MyWinFormsApp\\MyWinFormsApp.csproj": {
+    "D:\\代码\\watchFloder\\MyWinFormsApp\\MyWinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coobe\\Desktop\\cc\\MyWinFormsApp\\MyWinFormsApp.csproj",
+        "projectUniqueName": "D:\\代码\\watchFloder\\MyWinFormsApp\\MyWinFormsApp.csproj",
         "projectName": "MyWinFormsApp",
-        "projectPath": "C:\\Users\\coobe\\Desktop\\cc\\MyWinFormsApp\\MyWinFormsApp.csproj",
+        "projectPath": "D:\\代码\\watchFloder\\MyWinFormsApp\\MyWinFormsApp.csproj",
         "packagesPath": "C:\\Users\\coobe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coobe\\Desktop\\cc\\MyWinFormsApp\\obj\\",
+        "outputPath": "D:\\代码\\watchFloder\\MyWinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
