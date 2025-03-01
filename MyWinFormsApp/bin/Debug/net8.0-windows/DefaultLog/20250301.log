@@ -1,0 +1,209 @@
+﻿2025-03-01 14:56:03.489|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 14:56:03.499|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 14:56:03.499|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 14:57:27.453|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 14:57:27.461|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 14:57:27.461|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 14:58:20.351|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 14:58:20.359|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 14:58:20.359|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 14:58:41.686|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 14:58:41.696|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 14:58:41.696|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:00:45.728|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:00:45.737|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:00:45.737|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:06:11.104|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:06:11.114|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:06:11.114|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:25:10.246|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:25:10.254|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:25:10.254|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:28:37.700|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:28:37.709|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:28:37.709|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:31:33.864|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:31:33.872|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:31:33.872|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:51:04.908|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:51:04.915|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:51:04.915|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:51:39.742|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:51:39.752|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:51:39.752|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:53:19.602|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:53:19.610|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:53:19.610|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:54:35.588|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:54:35.595|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:54:35.595|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:55:02.080|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:55:02.085|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:55:02.085|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:55:24.968|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:55:24.969|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:55:24.969|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:58:50.792|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:58:50.800|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:58:50.800|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 15:59:47.895|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 15:59:47.902|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 15:59:47.902|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 16:01:06.949|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 16:01:06.960|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 16:01:06.960|Information |ConsoleAppInstance
+Application stopped.
+
+2025-03-01 16:01:23.779|Information |ConsoleAppInstance
+Application started.
+
+2025-03-01 16:01:23.784|Information |ConsoleAppInstance
+Application occurred an unhandled exception.
+NullReferenceException: Object reference not set to an instance of an object.
+   at Guru.Executable.ConsoleAppInstance.Run(String[] args, Boolean loop)
+
+2025-03-01 16:01:23.784|Information |ConsoleAppInstance
+Application stopped.
+

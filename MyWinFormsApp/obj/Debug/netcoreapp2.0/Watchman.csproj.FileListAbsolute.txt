@@ -1,0 +1,13 @@
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\bin\Debug\netcoreapp2.0\Watchman.deps.json
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\bin\Debug\netcoreapp2.0\Watchman.runtimeconfig.json
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\bin\Debug\netcoreapp2.0\Watchman.runtimeconfig.dev.json
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\bin\Debug\netcoreapp2.0\Watchman.dll
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\bin\Debug\netcoreapp2.0\Watchman.pdb
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\obj\Debug\netcoreapp2.0\Watchman.csproj.AssemblyReference.cache
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\obj\Debug\netcoreapp2.0\Watchman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\obj\Debug\netcoreapp2.0\Watchman.AssemblyInfoInputs.cache
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\obj\Debug\netcoreapp2.0\Watchman.AssemblyInfo.cs
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\obj\Debug\netcoreapp2.0\Watchman.csproj.CoreCompileInputs.cache
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\obj\Debug\netcoreapp2.0\Watchman.dll
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\obj\Debug\netcoreapp2.0\Watchman.pdb
+C:\Users\coobe\Downloads\Compressed\watchman-master\Watchman\obj\Debug\netcoreapp2.0\Watchman.genruntimeconfig.cache
